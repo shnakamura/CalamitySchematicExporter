@@ -1,6 +1,6 @@
 using CalamityMod.Schematics;
-using CalamitySchematicExporter.Tiles;
-using CalamitySchematicExporter.Walls;
+using CalamitySchematicExporter.Content.Tiles;
+using CalamitySchematicExporter.Content.Walls;
 
 namespace CalamitySchematicExporter;
 

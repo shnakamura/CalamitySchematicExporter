@@ -1,4 +1,4 @@
-namespace CalamitySchematicExporter.Walls;
+namespace CalamitySchematicExporter.Content.Walls;
 
 public class PreserverWall : ModWall
 {

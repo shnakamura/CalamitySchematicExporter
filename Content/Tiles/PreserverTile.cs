@@ -1,4 +1,4 @@
-namespace CalamitySchematicExporter.Tiles;
+namespace CalamitySchematicExporter.Content.Tiles;
 
 public class PreserverTile : ModTile
 {

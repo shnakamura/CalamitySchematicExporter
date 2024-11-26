@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using CalamityMod.Schematics;
-using CalamitySchematicExporter.Projectiles;
+using CalamitySchematicExporter.Content.Projectiles;
 using Terraria.Audio;
 using Terraria.DataStructures;
 
-namespace CalamitySchematicExporter.Items;
+namespace CalamitySchematicExporter.Content.Items;
 
 public class SchematicExporterItem : ModItem
 {

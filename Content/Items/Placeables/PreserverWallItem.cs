@@ -1,8 +1,8 @@
-﻿using CalamitySchematicExporter.Tiles;
+using CalamitySchematicExporter.Content.Walls;
 
-namespace CalamitySchematicExporter.Items.Placeables;
+namespace CalamitySchematicExporter.Content.Items.Placeables;
 
-public class PreserverTileItem : ModItem
+public class PreserverWallItem : ModItem
 {
     public override void SetDefaults()
     {
@@ -14,6 +14,6 @@ public class PreserverTileItem : ModItem
         Item.useTime = 4;
         Item.tileBoost = 50;
         Item.useStyle = ItemUseStyleID.Swing;
-        Item.createTile = ModContent.TileType<PreserverTile>();
+        Item.createWall = ModContent.WallType<PreserverWall>();
     }
 }

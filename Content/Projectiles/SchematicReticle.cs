@@ -1,4 +1,4 @@
-namespace CalamitySchematicExporter.Projectiles;
+namespace CalamitySchematicExporter.Content.Projectiles;
 
 public class SchematicReticle : ModProjectile
 {
