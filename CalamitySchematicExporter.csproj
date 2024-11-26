@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <Import Project="../tModLoader.targets"/>
+
+    <ItemGroup>
+      <Reference Include="CalamityMod">
+        <HintPath>lib\CalamityMod.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
