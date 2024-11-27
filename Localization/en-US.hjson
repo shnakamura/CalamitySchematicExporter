@@ -33,5 +33,6 @@ Mods: {
 		}
 
 		Projectiles.SchematicReticle.DisplayName: Schematic Reticle
+		Keybinds.CaptureKeybind.DisplayName: Capture Keybind
 	}
 }

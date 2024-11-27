@@ -4,7 +4,7 @@ using CalamitySchematicExporter.Content.Walls;
 
 namespace CalamitySchematicExporter;
 
-public class CalamitySchematicExporter : Mod
+public sealed class CalamitySchematicExporter : Mod
 {
     public override void Load()
     {

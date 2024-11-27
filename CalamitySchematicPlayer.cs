@@ -26,6 +26,7 @@ public class CalamitySchematicPlayer : ModPlayer
             var width = Math.Abs(c1.X - c2.X);
             var startingY = Math.Min(c1.Y, c2.Y);
             var height = Math.Abs(c1.Y - c2.Y);
+            
             return new Rectangle(startingX, startingY, width, height);
         }
     }
