@@ -1,0 +1,9 @@
+<Project>
+
+	<Import Project="..\..\tModLoader.targets" />
+
+	<Import Project="Mod.Build.Publicizer.targets"/>
+    <Import Project="Mod.Build.Usings.targets"/>
+    <Import Project="Mod.Build.References.targets"/>
+
+</Project>
